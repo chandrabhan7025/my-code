@@ -1,0 +1,49 @@
+
+ /* its our :horizontal code in css for changing color and height */
+ hr {
+      background-color: black;
+      border-style:none;
+      height:5px;            /* end */
+    }
+
+    /* its our page background color code */
+body{
+    background-color:#66BFBF;
+}
+h1{
+    color: #000;
+}
+body{
+     color: #000;
+}
+#splashScreen img{
+    margin:0 auto;
+}
+.img3{
+    position: absolute;
+    left:650px ;
+    height: 300px;
+    width: 300;
+    float: left;
+}
+.name{
+    position: absolute;
+    left: 00px;
+    left: 400px;
+    color: brown;
+
+}
+
+
+    
+
+.img4{
+    position:absolute;
+    left: 500px;
+    height:200px;
+    width: 200;
+}
+
+
+
+ 
